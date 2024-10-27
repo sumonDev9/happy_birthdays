@@ -186,15 +186,15 @@
 
 /* small device responsive */
 @media screen and (max-width:576px) {
-    /* .banner-countdown-container {
-        width: 100%;
+    .banner-countdown-container {
+        /* width: 100%; */
         height: 100vh;
-    } */
+    }
 
     .countdownn-text {
         color: #fff;
         font-size: 1.5rem;
-        margin-top: 10rem;
+        margin-top: 2rem;
         font-weight: 800;
     }
 
